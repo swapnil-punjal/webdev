@@ -1,0 +1,116 @@
+.parent{
+    border: 1px solid gray;
+    width: 350px;
+    margin: 125px auto;
+    
+}
+
+.heading
+{
+    background-color: #0abbeb;
+    text-align: center;
+    padding: 15px;
+    margin: 0px;
+    border: none;
+    color: white;
+    text-decoration: none;
+    font-size: 18px;  
+}
+
+.childcontainers
+{
+    padding: 10PX;
+    
+   
+   
+}
+.fname
+{
+    width: 94%;
+    margin-left: 9px;
+    padding: 5px;
+    box-sizing: border-box;
+  
+}
+.lname
+{
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;   
+
+}
+.radiobtn
+{
+   
+
+}
+
+.coach
+{
+    width: 25px;;
+    margin: 10px;
+    box-sizing: border-box;
+    
+}
+.coachone
+{
+    background-color:  #0abbeb;
+    padding: 10px;
+   
+}
+
+.roster
+{
+    width: 25px;;
+    margin: 10px;
+    box-sizing: border-box;
+
+}
+.rosterone
+{
+    background-color:  #0abbeb;
+    padding: 10px;
+}
+
+.mobile
+{
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+
+}
+
+.email
+{
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+
+}
+.pwd
+{
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+
+}
+
+.regibtn
+{
+   background-color:  #0abbeb;
+    width: 100%;
+    padding: 8px;
+    border: none;
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    text-align: left;
+
+}
+
+.bottom
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
